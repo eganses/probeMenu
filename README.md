@@ -1,2 +1,2 @@
 # probeMenu
-test laravel menu
+test laravel menu: menuLinks
